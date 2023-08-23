@@ -23,7 +23,7 @@
 </p>
 
 <div class="binomial">
- <img class="binomialimg" src="images/Capture.JPG">
+ <img class="binomialimg" src="images/iqfyvgbq.png">
  <br/>
  <button> Binomial Theorem </button>
 </div>
