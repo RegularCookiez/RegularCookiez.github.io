@@ -29,7 +29,7 @@
 </div>
 
 <div class="surds">
- <img class="surdsimg" src="images/iqfyvgbq.png">
+ <img class="surdsimg" src="images/surds.JPG">
  <br/>
  <button onclick="surds()"> Surds </button>
 </div>
