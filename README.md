@@ -4,10 +4,10 @@
 <head>
  <style>
   .intro {
-   margin-bottom: 15px;
+   margin-bottom: 50px;
   }
   .binomialimg {
-    width: 200px;
+    width: 250px;
     display: inline-block;
    }
  </style>
