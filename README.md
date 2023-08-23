@@ -60,7 +60,7 @@
 </div>
 
 <div class="quadratic">
- <img class="quadraticimg" src="images/surds.JPG">
+ <img class="quadraticimg" src="images/quadratic.JPG">
  <br/>
  <button onclick="quadratic()"> Quadratic Functions </button>
 </div>
@@ -81,7 +81,7 @@
 
 <script>
  function quadratic(){
-  document.getElementById("notes").innerHTML = "<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>  ."
+  document.getElementById("notes").innerHTML = "<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>  Quadratic functions are polynomials in which its degree is 2, in the form of y = ax² + bx + c. These types of functions, when drawn on a graph, take the shape of a parabola, unlike linear graphs, that curves either upward or downward."
  }
 </script>
 
