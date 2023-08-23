@@ -3,6 +3,9 @@
 
 <head>
  <style>
+   .intro {
+    font-size: 10;
+   }
    .binomial {
     display: inline-block;
    }
