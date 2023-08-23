@@ -3,9 +3,6 @@
 
 <head>
  <style>
-  .intro {
-   margin-bottom: 50px;
-  }
   .binomialimg {
     width: 225px;
     border-width: 1px;
