@@ -26,6 +26,18 @@
     object-fit: cover;
     border-width: 10px;
     border-color: Black;
+    margin-right: 20px;
+    margin-bottom: 10px;
+   }
+   .quadratic {
+    display: inline-block;
+   }
+  .quadraticimg {
+    width: 225px;
+    height: 162px;
+    object-fit: cover;
+    border-width: 10px;
+    border-color: Black;
     margin-bottom: 10px;
    }
  </style>
@@ -47,6 +59,12 @@
  <button onclick="surds()"> Surds </button>
 </div>
 
+<div class="quadratic">
+ <img class="quadraticimg" src="images/surds.JPG">
+ <br/>
+ <button onclick="quadratic()"> Quadratic Functions </button>
+</div>
+
 <p id="notes"> <br> Click on any topic to get notes! </p>
 
 <script>
@@ -58,6 +76,12 @@
 <script>
  function surds(){
   document.getElementById("notes").innerHTML = "<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>  Surds are irrational roots of integers. These numbers cannot be expressed as a fraction. They are decimals that trail infinitely long. Consider square roots such as √2.<br><br>√2 ≈ 1.4142135…<br>In this case, √2 is a surd as it is a root with an irrational value. These surds are often better left in this surd form as approximating their value is less accurate. Values such as √4, however, would likely not be considered a surd as it has a rational value of 2 and can be easily expressed precisely.<br><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>There are a few laws of surds that is true regardless of the surd involved. Here are some of the basic laws:<br><br>1. √a x √b = √ab<br>2. √a x √a = a<br>3. √a/√b = √(a/b)<br><br> Using these laws of surds can be used to simplify equations with surds.<br><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>When surds are present in the denominator of a fraction, there are several approaches to take.<br><br>One scenario would be when the denominator is a single surd. These fractions, such as 3/√2, can be multiplied on both sides by the same surd to simplify the fraction, which in this case will be 3√2.<br><br> Another scenario would be when the denominator is a surd plus or minus another value, for example the denominator is 3/√2+3.<br><br>This surd is known as a conjugate surd. To rationalize the denominator, we can use the algebraic identity of a² - b² = (a+b)(a-b) to help us. In the case of 3/√2+3, we can multiply both sides by √2-3. (√2+3)(√2-3) will be equivalent to (√2)² - 3², equal to -5. 3 can then be divided by -5 to give a simplified result."
+ }
+</script>
+
+<script>
+ function quadratic(){
+  document.getElementById("notes").innerHTML = "<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>  ."
  }
 </script>
 
