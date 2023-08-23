@@ -32,7 +32,7 @@
 </head>
 
 <p class="intro">
- Below is a list of all the topics for A Math.
+ Below is a list of some topics for A Math.
 </p>
 
 <div class="binomial">
