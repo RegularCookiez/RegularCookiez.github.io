@@ -25,11 +25,19 @@
 <div class="binomial">
  <img class="binomialimg" src="images/iqfyvgbq.png">
  <br/>
- <button onclick="notes.()"> Binomial Theorem </button>
+ <button onclick="binomial()"> Binomial Theorem </button>
 </div>
 
 <br>
-<p> Click on any topic to get notes! </p>
+<p id="notes"> Click on any topic to get notes! </p>
+
+<script>
+ function binomial(){
+  document.getElementById("notes").innerHTML = "hilarious"
+ }
+</script>
+
+
 
 </body>
 </html>
