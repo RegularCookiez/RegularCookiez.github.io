@@ -15,6 +15,15 @@
     border-color: Black;
     margin-bottom: 10px;
    }
+   .surds {
+    display: inline-block;
+   }
+  .surdsimg {
+    width: 225px;
+    border-width: 10px;
+    border-color: Black;
+    margin-bottom: 10px;
+   }
  </style>
 </head>
 
