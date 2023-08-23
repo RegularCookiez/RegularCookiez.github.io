@@ -3,9 +3,11 @@
 
 <head>
  <style>
+   .binomial {
+    display: inline-block;
+   }
   .binomialimg {
     width: 225px;
-    display: inline-block;
    }
  </style>
 </head>
