@@ -25,8 +25,10 @@
 <div class="binomial">
  <img class="binomialimg" src="images/iqfyvgbq.png">
  <br/>
- <button> Binomial Theorem </button>
+ <button onclick="notes.()"> Binomial Theorem </button>
 </div>
+
+<p> Click on any topic to get notes! </p>
 
 </body>
 </html>
