@@ -13,7 +13,7 @@
     width: 225px;
     border-width: 5px;
     border-color: Black;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
    }
  </style>
 </head>
