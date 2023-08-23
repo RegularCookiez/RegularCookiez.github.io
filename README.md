@@ -11,7 +11,7 @@
    }
   .binomialimg {
     width: 225px;
-    border-width: 5px;
+    border-width: 10px;
     border-color: Black;
     margin-bottom: 10px;
    }
