@@ -28,6 +28,7 @@
  <button onclick="notes.()"> Binomial Theorem </button>
 </div>
 
+<br>
 <p> Click on any topic to get notes! </p>
 
 </body>
