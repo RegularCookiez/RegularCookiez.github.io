@@ -3,13 +3,8 @@
 
 <head>
  <style>
-  .intro {
-   bottom-margin: 50px;
-  }
   .binomialimg {
     width: 225px;
-    border-width: 1px;
-    border-color: Black;
     display: inline-block;
    }
  </style>
