@@ -7,7 +7,7 @@
    margin-bottom: 50px;
   }
   .binomialimg {
-    width: 250px;
+    width: 225px;
     display: inline-block;
    }
  </style>
