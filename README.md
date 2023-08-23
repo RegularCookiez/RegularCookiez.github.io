@@ -28,8 +28,8 @@
  <button onclick="binomial()"> Binomial Theorem </button>
 </div>
 
-<br>
-<p id="notes"> Click on any topic to get notes! </p>
+
+<p id="notes"> <br> Click on any topic to get notes! </p>
 
 <script>
  function binomial(){
