@@ -11,6 +11,7 @@
    }
   .binomialimg {
     width: 225px;
+    height: 162px;
     border-width: 10px;
     border-color: Black;
     margin-bottom: 10px;
@@ -20,6 +21,8 @@
    }
   .surdsimg {
     width: 225px;
+    height: 162px;
+    object-fit: cover;
     border-width: 10px;
     border-color: Black;
     margin-bottom: 10px;
