@@ -8,6 +8,8 @@
    }
   .binomialimg {
     width: 225px;
+    border-width: 5px;
+    border-color: Black;
    }
  </style>
 </head>
@@ -18,6 +20,7 @@
 
 <div class="binomial">
  <img class="binomialimg" src="images/Capture.JPG">
+ <br/>
  <button> Binomial Theorem </button>
 </div>
 
