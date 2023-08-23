@@ -4,7 +4,7 @@
 <head>
  <style>
    .intro {
-    font-size: 10px;
+    font-size: 40px;
    }
    .binomial {
     display: inline-block;
