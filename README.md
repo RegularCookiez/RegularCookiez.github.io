@@ -20,7 +20,8 @@
 </p>
 
 <div class="binomial">
- <img class="binomialimg" src="images/Capture.JPG"> 
+ <img class="binomialimg" src="images/Capture.JPG">
+ <p> Binomial Theorem </p>
 </div>
 
 </body>
