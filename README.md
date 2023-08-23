@@ -14,6 +14,7 @@
     height: 162px;
     border-width: 10px;
     border-color: Black;
+    margin-right: 10px;
     margin-bottom: 10px;
    }
    .surds {
