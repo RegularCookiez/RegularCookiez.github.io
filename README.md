@@ -14,7 +14,7 @@
     height: 162px;
     border-width: 10px;
     border-color: Black;
-    margin-right: 15px;
+    margin-right: 10px;
     margin-bottom: 10px;
    }
    .surds {
@@ -26,7 +26,7 @@
     object-fit: cover;
     border-width: 10px;
     border-color: Black;
-    margin-right: 15px;
+    margin-right: 10px;
     margin-bottom: 10px;
    }
    .quadratic {
@@ -38,7 +38,7 @@
     object-fit: cover;
     border-width: 10px;
     border-color: Black;
-    margin-right: 15px;
+    margin-right: 10px;
     margin-bottom: 10px;
    }
    .polynomial {
