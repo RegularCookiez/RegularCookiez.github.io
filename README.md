@@ -83,7 +83,7 @@
  <button onclick="polynomial()"> Polynomials and Partial Fractions </button>
 </div>
 
-<p id="notes"> <br> Click on any topic to get notes! </p>
+<p id="notes"> <br> Click on the buttons of any of the following topics to see its notes! </p>
 
 <script>
  function binomial(){
